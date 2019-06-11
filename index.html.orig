@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>GIT LAB</title>
+    </head>
+    <body>
+        <header>
+            <h1>GIT</h1>
+        </header>
+        <ul>
+            <li>sync.main</li>
+            <li>Is GIT?</li>
+            <li>Version</li>
+            <li>브랜치</li>
+            <li>Branch</li>
+            <li>충돌</li>
+            <li>충돌해결</li>
+            <li>원격저장소</li>
+            <li>push</li>
+            <li>pull</li>
+            <li>push.main</li>
+            <li>pull.clon</li>
+            <li>conflict.main.clon</li>
+<<<<<<< .merge_file_a17284
+            <li>외부도구.master</li>
+=======
+            <li>외부도구.실험4 </li>
+>>>>>>> .merge_file_a07952
+        </ul>
+    </body>
+</html>
